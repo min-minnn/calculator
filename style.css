@@ -1,0 +1,87 @@
+#bg
+{
+    background: linear-gradient(to right, #5a86f2, #3a5bed);
+    border-radius: 9px;
+}
+#calInput,#result
+{
+    width: 300px;
+    height: 50px;
+    background: transparent;
+    border: none;
+    text-align: right;
+    font-size: 25px;
+    color: white;
+}
+td
+{
+    text-align: center; margin: 0auto;
+    width: 75px;
+    height: 75px;
+}
+.btn
+{
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    font-size: 35px;
+    border: none;
+    background: #3a4767;
+    color: #adc8e8;
+    
+}
+.btn:hover
+{
+    background: #2f3d56;
+    color: #7280a4;
+}
+.firstLine
+{
+    width: 155px;
+    height: 75px;
+    text-align: center;
+    font-size: 30px;
+    border: none;
+    background: #3a4767;
+    color: #adc8e8;
+}
+.firstLine:hover
+{
+    background: #2f3d56;
+    color: #7280a4;
+}
+.equal
+{
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    font-size: 35px;
+    border: none;
+    background: #4361e9;
+    color: white;
+}
+.equal:hover
+{
+    background: #3a54c9;
+    color: rgb(173, 173, 173);
+}
+#bracket{
+    width:155px;
+}
+#topLeft
+{
+    border-top-left-radius: 9px;
+}
+#topRight
+{
+    border-top-right-radius: 9px;
+}
+#botLeft
+{
+    border-bottom-left-radius: 9px;
+    width: 155px;
+}
+#botRight
+{
+    border-bottom-right-radius: 9px;
+}
