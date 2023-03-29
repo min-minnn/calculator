@@ -1,4 +1,5 @@
 # calculator
+HTML과 JS, CSS를 이용해서 계산기 프로그램 제작
 
 ## 1. 실행 방법
 
